@@ -35,7 +35,7 @@
 </script>
 
 <svelte:head>
-	<title>EÑE TRES: La conferencia de videojuegos hispanohablante</title>
+	<title>Ñ3 - La conferencia de videojuegos hispanohablante</title>
 
 	<!-- HTML META TAGS -->
 	<meta name="author" content="Dionakra" />
@@ -46,14 +46,14 @@
 	<meta name="generator" content="sveltekit" />
 	<meta
 		name="keywords"
-		content="yuste, inyustificado, n3, ñ3, enetres, eñetres, videojuegos hispanohablantes, conferencia, {gameTitles}"
+		content="yuste, inyustificado, n3, ñ3, enetres, eñetres, eñe tres, videojuegos hispanohablantes, conferencia, {gameTitles}"
 	/>
 
 	<!-- OPENGRAPH TAGS -->
 	<meta property="og:title" content="website" />
 	<meta
 		property="og:type"
-		content="EÑE TRES: La conferencia de videojuegos hispanohablante"
+		content="Ñ3 - La conferencia de videojuegos hispanohablante"
 	/>
 	<meta property="og:url" content="https://boix.dev/enetres/" />
 	<meta
