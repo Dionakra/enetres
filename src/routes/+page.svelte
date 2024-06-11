@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { base } from "$app/paths";
-	import type { Game } from "$lib/models/Conference.js";
 
 	export let data;
 
@@ -12,6 +11,9 @@
 		),
 	].sort();
 	let selectedPlatforms: string[] = [];
+	const gameTitles: string = data.conference.games
+		.map((game) => game.name)
+		.join(", ");
 
 	$: games = data.conference.games.filter((game) => {
 		return (
@@ -34,10 +36,74 @@
 
 <svelte:head>
 	<title>EÑE TRES: La conferencia de videojuegos hispanohablante</title>
+
+	<!-- HTML META TAGS -->
+	<meta name="author" content="Dionakra" />
 	<meta
 		name="description"
-		content="Encuentra los juegos protagonistas del Ñ3!"
+		content="Web no-oficial del Ñ3, la conferencia hispanohablante de videojuegos"
 	/>
+	<meta name="generator" content="sveltekit" />
+	<meta
+		name="keywords"
+		content="yuste, inyustificado, n3, ñ3, enetres, eñetres, videojuegos hispanohablantes, conferencia, {gameTitles}"
+	/>
+
+	<!-- OPENGRAPH TAGS -->
+	<meta property="og:title" content="website" />
+	<meta
+		property="og:type"
+		content="EÑE TRES: La conferencia de videojuegos hispanohablante"
+	/>
+	<meta property="og:url" content="https://boix.dev/enetres/" />
+	<meta
+		property="og:image"
+		content="https://i.ytimg.com/vi/TcRNPB01eMQ/maxresdefault.jpg"
+	/>
+	<meta property="og:image:alt" content="Logo de la conferencia de Ñ3" />
+
+	<meta
+		property="og:description"
+		content="Web no-oficial del Ñ3, la conferencia hispanohablante de videojuegos"
+	/>
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:site_name" content="Ñ3" />
+	<meta
+		property="og:video"
+		content="https://www.youtube.com/watch?v=TcRNPB01eMQ"
+	/>
+
+	<!-- TWITTER META TAGS -->
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@el_yuste_" />
+	<meta name="twitter:creator" content="@el_yuste_" />
+
+	<!-- FAVICON -->
+	<link
+		rel="apple-touch-icon"
+		sizes="180x180"
+		href="{base}/icons/favicon/apple-touch-icon.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="32x32"
+		href="{base}/icons/favicon/favicon-32x32.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="16x16"
+		href="{base}/icons/favicon/favicon-16x16.png"
+	/>
+	<link rel="manifest" href="{base}/icons/favicon/site.webmanifest" />
+	<link
+		rel="mask-icon"
+		href="{base}/icons/favicon/safari-pinned-tab.svg"
+		color="#5bbad5"
+	/>
+	<meta name="msapplication-TileColor" content="#da532c" />
+	<meta name="theme-color" content="#ffffff" />
 </svelte:head>
 
 <section class="bg-gray-100 h-screen">
@@ -77,7 +143,7 @@
 						/>
 					</a>
 					<div class="px-2 py-1">
-						<h2 class="text-lg">{game.name}</h2>
+						<p class="text-lg">{game.name}</p>
 						<p class="text-xs text-gray-700 pl-2">
 							{game.developer} / {game.publisher}
 						</p>
