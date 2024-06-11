@@ -1,0 +1,1489 @@
+{
+    "year": 2024,
+    "link": "https://www.youtube.com/watch?v=TcRNPB01eMQ",
+    "games": [
+        {
+            "name": "Die in the Dungeon",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026820/header_alt_assets_0.jpg",
+            "trailer": "https://www.youtube.com/watch?v=sQn0TuhbZtg",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2026820/Die_in_the_Dungeon/"
+                }
+            ],
+            "genres": [
+                "Deckbuilding Roguelike"
+            ],
+            "developer": "ATICO",
+            "publisher": "HypeTrain Digital",
+            "releaseDate": {
+                "year": 2024,
+                "month": 9
+            }
+        },
+        {
+            "name": "Tormenture",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545220/header.jpg?t=1718002057",
+            "trailer": "https://www.youtube.com/watch?v=G3QkEhP80Ts",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2545220/Tormenture/"
+                }
+            ],
+            "genres": [
+                "Retro",
+                "Horror",
+                "Puzzle",
+                "Adventure"
+            ],
+            "developer": "Croxel Studios",
+            "publisher": "Billete Cohete",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "eWorlds",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513440/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Bi8lMho654U",
+            "platforms": [
+                {
+                    "platform": "Steam_Deck",
+                    "link": "https://store.steampowered.com/app/2513440/eWorlds/"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2513440/eWorlds/"
+                }
+            ],
+            "genres": [
+                "Plataformas 3D",
+                "Multijugador"
+            ],
+            "developer": "GGTech Studios",
+            "publisher": "GGTech Studios",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Vangaro Tactics",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221530/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=pOItv1B7B_Q",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2221530/Vangaro_Tactics/"
+                }
+            ],
+            "genres": [
+                "Estrategia por turnos",
+                "Sigilo"
+            ],
+            "developer": "niadocraz",
+            "publisher": "niadocraz",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Tamarindos Freaking Dinner",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1484760/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=NkonBKRutC4&t=18s",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1484760/Tamarindos_Freaking_Dinner/"
+                }
+            ],
+            "genres": [
+                "Mascot Horror",
+                "Aventura"
+            ],
+            "developer": "Jacob Jazz",
+            "publisher": "Celery Emblem by Jacob Jazz",
+            "releaseDate": {
+                "year": 2024,
+                "month": 5,
+                "day": 3
+            }
+        },
+        {
+            "name": "Checkout!",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757500/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=llNzy_wJYJY",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2757500/Checkout/"
+                }
+            ],
+            "genres": [
+                "Party Game",
+                "Aventura"
+            ],
+            "developer": "Bucket Forge",
+            "publisher": "Bucket Forge",
+            "releaseDate": {
+                "year": 2024,
+                "month": 3,
+                "day": 6
+            }
+        },
+        {
+            "name": "Luto",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1729740/header.jpg",
+            "trailer": "https://youtu.be/spnT01yliJw",
+            "platforms": [
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/product/EP6325-PPSA18053_00-LUTODEMO00000000"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Epic_Games"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1729740/Luto/"
+                }
+            ],
+            "genres": [
+                "Terror Psicológico",
+                "Drama",
+                "Thriller"
+            ],
+            "developer": "Broken Bird Games",
+            "publisher": "Selecta Play",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Emery Hearts",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732480/header.jpg",
+            "trailer": "https://youtu.be/Zm7BO-PpbrQ",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2732480/Emery_Hearts/"
+                }
+            ],
+            "genres": [
+                "Action RPG"
+            ],
+            "developer": "Indie Dev Hell",
+            "publisher": "Indie Dev Hell",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Eden Genesis",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2562900/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Wo0paLiHiM0",
+            "platforms": [
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10009572"
+                },
+                {
+                    "platform": "PS4",
+                    "link": "https://store.playstation.com/es-es/concept/10009572"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Xbox_One"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2562900/Eden_Genesis/"
+                }
+            ],
+            "genres": [
+                "Cyberpunk 2D Adventure"
+            ],
+            "developer": "Aeternum Game Studios",
+            "publisher": "Aeternum Game Studios",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Nom Nom: Cozy Forest Café",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2428800/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=HR8odwRK-rQ",
+            "platforms": [
+                {
+                    "platform": "Epic_Games"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Mobile"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2428800"
+                }
+            ],
+            "genres": [
+                "Management sim",
+                "ritmo",
+                "decoración"
+            ],
+            "developer": "Anaïs Salla",
+            "publisher": "DevilishGames",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Tinkerlands",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617700/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=AYuQK4zwu54",
+            "platforms": [
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2617700/Tinkerlands/"
+                }
+            ],
+            "genres": [
+                "Aventura",
+                "Survival",
+                "Acción"
+            ],
+            "developer": "CodeManu, Endless Coffee",
+            "publisher": "HypeTrain Digital",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "All on Board!",
+            "image": "https://raw.githubusercontent.com/Dionakra/enetres/main/static/all_on_board.png",
+            "trailer": "",
+            "platforms": [
+                {
+                    "platform": "Meta_Quest"
+                },
+                {
+                    "platform": "Steam"
+                }
+            ],
+            "genres": [
+                "Simulador de Juegos de Mesa"
+            ],
+            "developer": "The Game Kitchen",
+            "publisher": "The Game Kitchen",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "TemTem: Swarm",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=7XrfBcuNFBQ",
+            "platforms": [
+                {
+                    "platform": "Steam_Deck",
+                    "link": "https://store.steampowered.com/app/2510960/Temtem_Swarm/"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2510960/Temtem_Swarm/"
+                }
+            ],
+            "genres": [
+                "Action",
+                "Bullet Heaven",
+                "Survivors-like"
+            ],
+            "developer": "Crema y GGTech Studios",
+            "publisher": "Crema",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Hellfire Poncho",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017150/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=AaS6edZtzHQ",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/3017150/Hellfire_Poncho/"
+                }
+            ],
+            "genres": [
+                "Roguelike twin-stick shooter"
+            ],
+            "developer": "Juegos Asados",
+            "publisher": "Juegos Asados",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Butanooo! Simulator",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2785170/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=KQBRZoCHCWM&lc=UgwuAaV1z11-hQPIQh54AaABAg",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2785170/Butanooo_Simulator/"
+                }
+            ],
+            "genres": [
+                "Simulador",
+                "Indie",
+                "Conducción"
+            ],
+            "developer": "Pigeon-G",
+            "publisher": "Pigeon-G",
+            "releaseDate": {
+                "year": 2024,
+                "month": 6
+            }
+        },
+        {
+            "name": "PINEAPPLE: A Bittersweet Revenge",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2791360/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=zoyOio03Uhc&ab_channel=PATRONES%26ESCONDITES",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Mobile"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2791360/PINEAPPLE_A_Bittersweet_Revenge/"
+                }
+            ],
+            "genres": [
+                "Simulador de bromas",
+                "Puzzles"
+            ],
+            "developer": "Patrones y Escondites",
+            "publisher": "Patrones y Escondites",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Guayota",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506450/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=cPH7TUl3mi4",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2506450/Guayota/"
+                }
+            ],
+            "genres": [
+                "Aventura",
+                "Puzzles"
+            ],
+            "developer": "Team Delusion",
+            "publisher": "Dear Villagers",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Creatures of Ava",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304440/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=HlOweqIi9BY",
+            "platforms": [
+                {
+                    "platform": "GOG",
+                    "link": "https://www.gog.com/en/game/creatures_of_ava"
+                },
+                {
+                    "platform": "Xbox_Series",
+                    "link": "https://www.xbox.com/es-ES/games/store/creatures-of-ava/9nv5ltsphqd2"
+                },
+                {
+                    "platform": "Epic_Games",
+                    "link": "https://store.epicgames.com/en-US/p/creatures-of-ava-cacd2c"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2304440/Creatures_of_Ava/"
+                }
+            ],
+            "genres": [
+                "Coleccionista de criaturas",
+                "Exploración",
+                "Buena trama",
+                "Acción-Aventura",
+                "Un jugador"
+            ],
+            "developer": "Inverge Studios, Chibig",
+            "publisher": "11 bit studios",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Citadelum",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2603020/header.jpg?t=1718022821",
+            "trailer": "https://www.youtube.com/watch?v=7dRViyG-J9Y",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2603020/Citadelum/"
+                }
+            ],
+            "genres": [
+                "Estrategia",
+                "City building"
+            ],
+            "developer": "Abylight Barcelona",
+            "publisher": "Abylight Studios",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Welcome to Empyreum",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807220/header.jpg",
+            "trailer": "https://youtu.be/NiU_LFJs0H0",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS4"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_One"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1807220/Welcome_to_Empyreum/"
+                }
+            ],
+            "genres": [
+                "Party Game"
+            ],
+            "developer": "Tapioca Games",
+            "publisher": "Tapioca Games",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Morkull Ragast's Rage",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191540/header.jpg?t=1714128819",
+            "trailer": "https://www.youtube.com/watch?v=InEslmHp1DU&ab_channel=SelectaPlay",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch",
+                    "link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Morkull-Ragast-s-Rage-2569125.html"
+                },
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/product/EP6325-PPSA21605_00-0194358340895485"
+                },
+                {
+                    "platform": "Xbox_Series",
+                    "link": "https://www.xbox.com/es-ES/games/store/morkull-ragasts-rage/9MWVS4GSV37Q/0017"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2191540/Morkull_Ragasts_Rage/"
+                }
+            ],
+            "genres": [
+                "Metroidvania",
+                "Plataformas ",
+                "Acción"
+            ],
+            "developer": "Disaster Games",
+            "publisher": "Selecta Play",
+            "releaseDate": {
+                "year": 2024,
+                "month": 8,
+                "day": 20
+            }
+        },
+        {
+            "name": "Genokids",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239360/header.jpg?t=1717697873",
+            "trailer": "https://www.youtube.com/watch?v=fOrqPF7J3mw",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1239360/Genokids/"
+                }
+            ],
+            "genres": [
+                "Hack&Slash"
+            ],
+            "developer": "Nukefist",
+            "publisher": "Nukefist",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Tower Factory",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707490/header.jpg?t=1717105257",
+            "trailer": "https://www.youtube.com/watch?v=BCY6sOxhHQE",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2707490/Tower_Factory"
+                }
+            ],
+            "genres": [
+                "Estrategia",
+                "Tower Defense",
+                "Factory Sim"
+            ],
+            "developer": "Gius Caminiti",
+            "publisher": "Gius Caminiti",
+            "releaseDate": {
+                "year": 2024,
+                "month": 10
+            }
+        },
+        {
+            "name": "Bread and Fred",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607680/header.jpg?t=1717091830",
+            "trailer": "https://www.youtube.com/watch?v=z13lnd-bnLI",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch",
+                    "link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Bread-Fred-2581238.html"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1607680/Bread__Fred/"
+                }
+            ],
+            "genres": [
+                "2D Platformer",
+                "Rage-Game",
+                "Co-Op Game"
+            ],
+            "developer": "Sand Castles Studio",
+            "publisher": "Apogee Entertainment",
+            "releaseDate": {
+                "year": 2024,
+                "month": 4,
+                "day": 23
+            }
+        },
+        {
+            "name": "ONE BTN BOSSES",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910600/header.jpg?t=1717831207",
+            "trailer": "https://www.youtube.com/watch?v=heHFsJEVGcQ",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1910600/ONE_BTN_BOSSES/"
+                }
+            ],
+            "genres": [
+                "Action",
+                "Bullet Hell",
+                "Shoot 'em up"
+            ],
+            "developer": "Midnight Munchies",
+            "publisher": "Midnight Munchies, Outersloth",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Scholar's Mate",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095510/header.jpg?t=1717499033",
+            "trailer": "https://www.youtube.com/watch?v=jNyU30voogg",
+            "platforms": [
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10010670"
+                },
+                {
+                    "platform": "PS4",
+                    "link": "https://store.playstation.com/es-es/concept/10010670"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Xbox_One"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2095510?utm_source=n3"
+                }
+            ],
+            "genres": [
+                "Escape Room",
+                "Ambientación Terror",
+                "Puzles",
+                "Primera Persona"
+            ],
+            "developer": "JanduSoft",
+            "publisher": "JanduSoft",
+            "releaseDate": {
+                "year": 2024,
+                "month": 4,
+                "day": 30
+            }
+        },
+        {
+            "name": "The Occultist",
+            "image": "https://raw.githubusercontent.com/Dionakra/enetres/main/static/occultist.jpg",
+            "trailer": "https://www.youtube.com/watch?v=aiuWUVGYteM",
+            "platforms": [
+                {
+                    "platform": "Epic_Games"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam"
+                }
+            ],
+            "genres": [
+                "Smart Horror",
+                "Horror"
+            ],
+            "developer": "Pentakill Studios",
+            "publisher": "TBA",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Embers of the Evening",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706010/header.jpg?t=1712479118",
+            "trailer": "https://www.youtube.com/watch?v=X-zTk7W50Ac&ab_channel=Praenaris",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2706010/Embers_of_the_Evening/"
+                }
+            ],
+            "genres": [
+                "Terror Psicológico"
+            ],
+            "developer": "Praenaris",
+            "publisher": "Praenaris",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "KinnikuNeko: SUPER MUSCLE CAT",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332950/header.jpg?t=1713464813",
+            "trailer": "https://www.youtube.com/watch?v=RsUQqXi_3G4",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1332950/KinnikuNeko_SUPER_MUSCLE_CAT/"
+                }
+            ],
+            "genres": [
+                "Plataformas 2D"
+            ],
+            "developer": "Kamotachi",
+            "publisher": "Kamotachi",
+            "releaseDate": {
+                "year": 2024,
+                "month": 2,
+                "day": 19
+            }
+        },
+        {
+            "name": "Roombattle",
+            "image": "https://raw.githubusercontent.com/Dionakra/enetres/main/static/roombattle.jpg",
+            "trailer": "https://www.youtube.com/watch?v=-SjQbbnzT8A",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam"
+                }
+            ],
+            "genres": [
+                "Party Fighting Game"
+            ],
+            "developer": "Dust Games",
+            "publisher": "Dust Games",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Farlands",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252680/header.jpg?t=1717881009",
+            "trailer": "https://youtu.be/O_K-FBahk_o",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2252680?utm_source=yuste"
+                }
+            ],
+            "genres": [
+                "Gestión de recursos",
+                "colectathon",
+                "simulador agrícola"
+            ],
+            "developer": "JanduSoft + L&V",
+            "publisher": "JanduSoft",
+            "releaseDate": {
+                "year": 2024,
+                "month": 6,
+                "day": 24
+            }
+        },
+        {
+            "name": "Underboard",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376610/header.jpg?t=1718006067",
+            "trailer": "https://www.youtube.com/watch?v=gVlPUwbyJ-0",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2376610/Underboard/"
+                }
+            ],
+            "genres": [
+                "Roguelike Autobattler"
+            ],
+            "developer": "Headless",
+            "publisher": "Headless",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Catechesis",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593320/header.jpg?t=1701357254",
+            "trailer": "https://youtu.be/MvCPf9B6J3Y?si=olLp8W9tgzBqfFpQ",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2593320/Catechesis/"
+                }
+            ],
+            "genres": [
+                "Terror",
+                "Aventura"
+            ],
+            "developer": "Baroque Decay",
+            "publisher": "Baroque Decay",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Hell of an office",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640890/header.jpg?t=1717703144",
+            "trailer": "https://www.youtube.com/watch?v=di8pfIVPohw",
+            "platforms": [
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "PS4"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1640890/Hell_of_an_Office/"
+                }
+            ],
+            "genres": [
+                "Plataformas",
+                "Acción"
+            ],
+            "developer": "43 Studios",
+            "publisher": "Joystick Ventures",
+            "releaseDate": {
+                "year": 2024,
+                "month": 9,
+                "day": 3
+            }
+        },
+        {
+            "name": "Sands Of Hope",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821450/header.jpg?t=1717512433",
+            "trailer": "https://www.youtube.com/watch?v=IXVp2hqOp3w",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2821450/Sands_of_Hope/"
+                }
+            ],
+            "genres": [
+                "Puzzles",
+                "Aventuras",
+                "Cozy Game",
+                "Exploración"
+            ],
+            "developer": "Guateke Studios",
+            "publisher": "Guateke Studios",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Jack Holmes",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235820/header.jpg?t=1717855897",
+            "trailer": "https://www.youtube.com/watch?v=RH_65Bzv9LM&t=8s",
+            "platforms": [
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/product/EP3446-PPSA19370_00-0679753141473089"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2235820/Jack_Holmes__Master_of_Puppets/"
+                }
+            ],
+            "genres": [
+                "Survival Horror"
+            ],
+            "developer": "TonyDevGame",
+            "publisher": "Perpetual Games",
+            "releaseDate": {
+                "year": 2024,
+                "month": 3,
+                "day": 26
+            }
+        },
+        {
+            "name": "Wax Heads",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769240/header.jpg?t=1717877974",
+            "trailer": "https://www.youtube.com/watch?v=Ghj_g-vhLbI",
+            "platforms": [
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2769240/Wax_Heads/"
+                }
+            ],
+            "genres": [
+                "Puzzle",
+                "Adventure",
+                "Simulation"
+            ],
+            "developer": "Patattie Games",
+            "publisher": "TBA",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Camper Van",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843190/header.jpg?t=1717188617",
+            "trailer": "https://www.youtube.com/watch?v=3CzduGn9Zr0",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Mobile"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2843190/Camper_Van_Make_it_Home/"
+                }
+            ],
+            "genres": [
+                "juego cozy",
+                "puzzle de organización de bloques",
+                "simulación",
+                "diseño de interiores"
+            ],
+            "developer": "Malapata Studio",
+            "publisher": "Malapata Studio, Wings",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Nordic Ashes",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2068280/header.jpg?t=1717866119",
+            "trailer": "https://www.youtube.com/watch?v=i7e_N6pq1BA&ab_channel=NoxfallStudios",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2068280/Nordic_Ashes_Survivors_of_Ragnarok/"
+                }
+            ],
+            "genres": [
+                "Roguelite-Survivor"
+            ],
+            "developer": "Noxfall Studios",
+            "publisher": "Noxfall Studios",
+            "releaseDate": {
+                "year": 2024,
+                "month": 3,
+                "day": 26
+            }
+        },
+        {
+            "name": "Altered Alma",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190700/header.jpg?t=1701357914",
+            "trailer": "https://www.youtube.com/watch?v=dKsq0YPjBmg",
+            "platforms": [
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2190700/Altered_Alma/"
+                }
+            ],
+            "genres": [
+                "2D Metroidvania",
+                "Cyberpunk"
+            ],
+            "developer": "2Awesome Studio",
+            "publisher": "Critical Reflex",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Runa",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2787850/header.jpg?t=1713311672",
+            "trailer": "https://youtu.be/YTtwubaAS5o?si=ULdFyZ9JihtXQ7Pn",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2787850/Runa/"
+                }
+            ],
+            "genres": [
+                "JRPG",
+                "Aventura"
+            ],
+            "developer": "Fennec Studio",
+            "publisher": "Fennec Studio",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Summa Expeditionis",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2056200/header.jpg?t=1716209091",
+            "trailer": "https://youtu.be/JXUTdv1-SOI",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2056200/Summa_Expeditionis/"
+                }
+            ],
+            "genres": [
+                "Supervivencia",
+                " Construcción de Bases",
+                "Estrategia",
+                "Gestión"
+            ],
+            "developer": "Lobico Games",
+            "publisher": "Megalevel",
+            "releaseDate": {
+                "year": 2024,
+                "month": 10
+            }
+        },
+        {
+            "name": "Inanima",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2211000/header.jpg?t=1704458214",
+            "trailer": "https://youtu.be/lYNkOD2696Y?si=cOrzCMX1V9lC_6QQ",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2211000/INANIMA/"
+                }
+            ],
+            "genres": [
+                "Survival horror"
+            ],
+            "developer": "Obscure Tales",
+            "publisher": "Obscure Tales",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Catalina's",
+            "image": "https://raw.githubusercontent.com/Dionakra/enetres/main/static/catalinas.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Ic4jlrYc1xw",
+            "platforms": [
+                {
+                    "platform": "Steam"
+                }
+            ],
+            "genres": [
+                "Terror",
+                "Aventura",
+                "Shooter",
+                "Puzzle"
+            ],
+            "developer": "Esther Anastasia",
+            "publisher": "Esther Anastasia",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Frogun Encore",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2312160/header.jpg?t=1717699017",
+            "trailer": "https://www.youtube.com/watch?v=HQLAGXlPuew",
+            "platforms": [
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10010338"
+                },
+                {
+                    "platform": "PS4",
+                    "link": "https://store.playstation.com/es-es/concept/10010338"
+                },
+                {
+                    "platform": "Xbox_Series",
+                    "link": "https://www.xbox.com/es-ES/games/store/frogun-encore/9NFDX3JFNF0G/0010"
+                },
+                {
+                    "platform": "Nintendo_Switch",
+                    "link": "https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Frogun-Encore-2586590.html"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2312160/Frogun_Encore"
+                }
+            ],
+            "genres": [
+                "Plataformas"
+            ],
+            "developer": "Molegato",
+            "publisher": "Top Hat Studios",
+            "releaseDate": {
+                "year": 2024,
+                "month": 5,
+                "day": 25
+            }
+        },
+        {
+            "name": "Neon Blood",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067310/header.jpg?t=1716379829",
+            "trailer": "https://www.youtube.com/watch?v=7oxxCpJCI-c",
+            "platforms": [
+                {
+                    "platform": "PS4",
+                    "link": "https://store.playstation.com/es-es/concept/10005127"
+                },
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10005127"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Xbox_One"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2067310/Neon_Blood/"
+                }
+            ],
+            "genres": [
+                "RPG",
+                "misterio",
+                "puzzles",
+                "combate por turnos"
+            ],
+            "developer": "ChaoticBrain Studios",
+            "publisher": "Meridiem",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Magical Bakery",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2595940/header.jpg?t=1716459540",
+            "trailer": "https://www.youtube.com/watch?v=PWhaOaC-1IU",
+            "platforms": [
+                {
+                    "platform": "Epic_Games",
+                    "link": "https://store.epicgames.com/en-US/p/magical-bakery-57f8e8"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10009878"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2595940/Magical_Bakery/"
+                }
+            ],
+            "genres": [
+                "Gestión",
+                "Cocina"
+            ],
+            "developer": "Superlumen",
+            "publisher": "Superlumen",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Doors and Loot",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456160/header.jpg?t=1715844421",
+            "trailer": "https://www.youtube.com/watch?v=Yw-OeU4R0QU",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2456160/Doors__Loot/"
+                }
+            ],
+            "genres": [
+                "Dungeon crawler",
+                "roguelike/lite"
+            ],
+            "developer": "Scalions Studios",
+            "publisher": "Scalions Studios",
+            "releaseDate": {
+                "year": 2024,
+                "month": 4,
+                "day": 13
+            }
+        },
+        {
+            "name": "Eden Guardians",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2589980/header.jpg?t=1711471949",
+            "trailer": "https://www.youtube.com/watch?v=uBh63kZ_5TQ",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2589980/Edens_Guardian/"
+                }
+            ],
+            "genres": [
+                "Metroidvania"
+            ],
+            "developer": "Voragine Game Studios",
+            "publisher": "Voragine Game Studios",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Evolution: From the little light",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710880/header.jpg?t=1717696436",
+            "trailer": "https://www.youtube.com/watch?v=u8cMsejDb0E",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2710880/Evolution_From_the_little_light/"
+                }
+            ],
+            "genres": [
+                "Aventura",
+                "Puzzles",
+                "Atmosférico",
+                "Oscuro"
+            ],
+            "developer": "Mysterious Hat",
+            "publisher": "Mysterious Hat",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Everdeep Aurora",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2251400/header.jpg?t=1717680532w",
+            "trailer": "https://www.youtube.com/watch?v=l_3WkWXd-Lc",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2251400/Everdeep_Aurora/"
+                }
+            ],
+            "genres": [
+                "Narrativo",
+                "Plataformas"
+            ],
+            "developer": "Nautilus Games",
+            "publisher": "Ysbryd Games",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Vegangster",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449390/header.jpg?t=1716383472",
+            "trailer": "https://www.youtube.com/watch?v=ASOsnxeFz1g",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2449390/Vegangsters/"
+                }
+            ],
+            "genres": [
+                "Deckbuilder Roguelike"
+            ],
+            "developer": "Poison Pill Games",
+            "publisher": "Poison Pill Games",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Antro",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1861250/header.jpg?t=1711094702",
+            "trailer": "https://www.youtube.com/watch?v=9YQcva1L2yQ",
+            "platforms": [
+                {
+                    "platform": "PS5"
+                },
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1861250/Antro/"
+                }
+            ],
+            "genres": [
+                "Puzzle-platformer",
+                "Rhythm runner"
+            ],
+            "developer": "Gatera Studio",
+            "publisher": "TBA",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Galaia",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625930/header.jpg?t=1717756824",
+            "trailer": "https://www.youtube.com/watch?v=NZIOgT8NpNM",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1625930/Galaia/"
+                }
+            ],
+            "genres": [
+                "Action-Adventure",
+                "Roguelike"
+            ],
+            "developer": "JgDoesThings",
+            "publisher": "JgDoesThings",
+            "releaseDate": {
+                "year": 2024,
+                "month": 6,
+                "day": 10
+            }
+        },
+        {
+            "name": "UNLIGHTED",
+            "image": "https://raw.githubusercontent.com/Dionakra/enetres/main/static/unlighted.png",
+            "trailer": "https://youtu.be/n_m7qnLDEjE",
+            "platforms": [
+                {
+                    "platform": "Itch.io",
+                    "link": "https://ginuhgames.itch.io/unlighted-demo"
+                }
+            ],
+            "genres": [
+                "Puzzles",
+                "Narrativo"
+            ],
+            "developer": "Ginuh Games",
+            "publisher": "Ginuh Games",
+            "releaseDate": {
+                "year": 2024
+            }
+        },
+        {
+            "name": "Xerme",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2571310/header.jpg?t=1707926589",
+            "trailer": "https://www.youtube.com/watch?v=xwEUymilvsM",
+            "platforms": [
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/2571310/Xerme/"
+                }
+            ],
+            "genres": [
+                "Aventuras",
+                "Puzzles",
+                "Indie"
+            ],
+            "developer": "Acariño Games",
+            "publisher": "Acariño Games",
+            "releaseDate": {
+                "year": 2025
+            }
+        },
+        {
+            "name": "Last Time I Saw You",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1909750/header.jpg?t=1716344321",
+            "trailer": "https://www.youtube.com/watch?v=3-EK2hohVEM",
+            "platforms": [
+                {
+                    "platform": "Nintendo_Switch"
+                },
+                {
+                    "platform": "PS5",
+                    "link": "https://store.playstation.com/es-es/concept/10010299"
+                },
+                {
+                    "platform": "Xbox_Series"
+                },
+                {
+                    "platform": "Steam",
+                    "link": "https://store.steampowered.com/app/1909750/Last_Time_I_Saw_You/"
+                }
+            ],
+            "genres": [
+                "Aventura",
+                "Narrativo"
+            ],
+            "developer": "Maboroshi Artworks",
+            "publisher": "Chorus Worldwide",
+            "releaseDate": {
+                "year": 2024
+            }
+        }
+    ]
+}
